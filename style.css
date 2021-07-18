@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Goldman:wght@700&display=swap');
+
+*{
+  font-family: 'Goldman', cursive !important;
+
+  margin: 0 !important;
+  padding:0 !important;
+}
+body{
+
+  background: linear-gradient(90deg,#56ab2f, #a8e063) !important; 
+
+}
+.cubuk{
+    width:100% !important;
+    border-top:3px solid #fff;
+}
+.kutu
+{
+  margin-top:-15px !important;
+  width:50px;
+  height: 50px;
+  background-color: #fff;
+  width:-50% !important;
+  position: absolute;
+  font-size: 30px;
+}
+
+.guess
+{
+  width:160px;
+  height:80px;
+  font-size:50px;
+  color:#fff;
+}
+.btnCheck,.inputCheck
+{
+  margin:12px !important;
+  border:2px solid #fff !important;
+}
